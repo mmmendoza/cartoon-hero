@@ -18,9 +18,14 @@ h1{
 	font-size: 124px;
 	color: white;
 	text-align: center;
-	}
+	padding-bottom: 5px
 }
 
+h2{
+	padding-bottom: 28px;
+	padding-top: 28px;
+}
+}
 header img{
 	font-size: 90px;
 	color: white;
@@ -40,13 +45,14 @@ header img{
 
 .content{
 	max-width: 611px;
-	margin: 80px auto;
+	margin: 54px auto;
 	padding: 0 20px;
 }
 
-img.big-image{
-	max-width: 100%;
+big-image.jpg{
+
 }
+
 
 p.caption{
 	font-size: 16px;
